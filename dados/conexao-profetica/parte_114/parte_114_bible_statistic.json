@@ -1,0 +1,79 @@
+{
+  "parteNumber": 114,
+  "youtubeId": "Js-n_NxUplQ",
+  "totalCitations": 8,
+  "totalBooks": 6,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 20,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 39,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Sofonias",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

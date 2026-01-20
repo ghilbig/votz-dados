@@ -1,0 +1,72 @@
+{
+  "parteNumber": 73,
+  "youtubeId": "v1jD3vPKe68",
+  "totalCitations": 12,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 9,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 5
+        },
+        {
+          "chapter": 17,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 21,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "1o. Livro de Crônicas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "2o. Livro de Crônicas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

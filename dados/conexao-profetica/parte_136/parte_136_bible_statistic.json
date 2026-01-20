@@ -1,0 +1,41 @@
+{
+  "parteNumber": 136,
+  "youtubeId": "g8m-FQNcLZQ",
+  "totalCitations": 11,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 9,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 9
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Salmos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 90,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

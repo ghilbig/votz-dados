@@ -1,0 +1,19 @@
+{
+  "parteNumber": 102,
+  "youtubeId": "ayB7D0XHAiY",
+  "totalCitations": 1,
+  "totalBooks": 1,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

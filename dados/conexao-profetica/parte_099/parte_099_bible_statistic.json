@@ -1,0 +1,103 @@
+{
+  "parteNumber": 99,
+  "youtubeId": "N8wmJ9QDZ7Q",
+  "totalCitations": 24,
+  "totalBooks": 5,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 11,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        },
+        {
+          "chapter": 17,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 22,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Isaías",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "parteNumber": 65,
+  "youtubeId": "LfX5vWl70qo",
+  "totalCitations": 22,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 11,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 20,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 320,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 10,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 8,
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 10,
+          "verse": null,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parteNumber": 139,
+  "youtubeId": "6YckRMXNQG8",
+  "totalCitations": 6,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "book": "Lucas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

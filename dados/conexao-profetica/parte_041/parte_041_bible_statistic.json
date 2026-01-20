@@ -1,0 +1,45 @@
+{
+  "parteNumber": 41,
+  "youtubeId": "wapdtIFFsqs",
+  "totalCitations": 9,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 8,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        },
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 27,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

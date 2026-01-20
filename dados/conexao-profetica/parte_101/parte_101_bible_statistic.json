@@ -1,0 +1,51 @@
+{
+  "parteNumber": 101,
+  "youtubeId": "hrQLkIA9hz4",
+  "totalCitations": 11,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Gálatas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

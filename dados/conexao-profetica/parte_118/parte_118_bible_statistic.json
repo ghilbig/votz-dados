@@ -1,0 +1,51 @@
+{
+  "parteNumber": 118,
+  "youtubeId": "elUEw490TdY",
+  "totalCitations": 11,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 8,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        },
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 20,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Isaías",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 28,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

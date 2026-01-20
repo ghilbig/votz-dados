@@ -1,0 +1,67 @@
+{
+  "parteNumber": 26,
+  "youtubeId": "i6cqBYNy5s0",
+  "totalCitations": 42,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 28,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 4
+        },
+        {
+          "chapter": 5,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 22
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 10,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

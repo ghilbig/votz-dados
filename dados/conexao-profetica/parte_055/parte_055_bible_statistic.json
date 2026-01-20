@@ -1,0 +1,35 @@
+{
+  "parteNumber": 55,
+  "youtubeId": "_U68JXDqH7w",
+  "totalCitations": 3,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

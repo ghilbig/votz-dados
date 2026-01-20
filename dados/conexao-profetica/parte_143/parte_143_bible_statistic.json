@@ -1,0 +1,35 @@
+{
+  "parteNumber": 143,
+  "youtubeId": "62YUnbHD7EI",
+  "totalCitations": 12,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 9,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 9
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 28,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

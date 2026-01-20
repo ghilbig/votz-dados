@@ -1,0 +1,46 @@
+{
+  "parteNumber": 116,
+  "youtubeId": "F3nGi86CFTY",
+  "totalCitations": 20,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 17,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 5
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 27,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

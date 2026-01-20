@@ -1,0 +1,68 @@
+{
+  "parteNumber": 48,
+  "youtubeId": "7IaaLvJXHyI",
+  "totalCitations": 18,
+  "totalBooks": 5,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 11,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Hebreus",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2025,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

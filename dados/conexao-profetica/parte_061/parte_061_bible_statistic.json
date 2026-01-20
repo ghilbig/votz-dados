@@ -1,0 +1,46 @@
+{
+  "parteNumber": 61,
+  "youtubeId": "w1J2IZWDIl0",
+  "totalCitations": 9,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Mateus",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

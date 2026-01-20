@@ -1,0 +1,46 @@
+{
+  "parteNumber": 54,
+  "youtubeId": "PIpdj6XGrT4",
+  "totalCitations": 11,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 9,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 27,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Lucas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": 36,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

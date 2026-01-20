@@ -1,0 +1,52 @@
+{
+  "parteNumber": 34,
+  "youtubeId": "YTKtwpQeVoM",
+  "totalCitations": 7,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Isaías",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 53,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

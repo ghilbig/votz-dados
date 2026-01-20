@@ -1,0 +1,73 @@
+{
+  "parteNumber": 92,
+  "youtubeId": "Y7l6hXtXzUQ",
+  "totalCitations": 10,
+  "totalBooks": 5,
+  "books": [
+    {
+      "book": "Mateus",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Lucas",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "count": 1
+        },
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

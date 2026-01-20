@@ -1,0 +1,51 @@
+{
+  "parteNumber": 130,
+  "youtubeId": "06ThBnhYYH0",
+  "totalCitations": 8,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Romanos",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

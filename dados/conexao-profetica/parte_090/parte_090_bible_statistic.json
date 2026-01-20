@@ -1,0 +1,52 @@
+{
+  "parteNumber": 90,
+  "youtubeId": "5Z8janetit4",
+  "totalCitations": 8,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Isaías",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 17,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "parteNumber": 96,
+  "youtubeId": "h6MTP7Cm7Ds",
+  "totalCitations": 6,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 20,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 1315,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Levítico",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 23,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

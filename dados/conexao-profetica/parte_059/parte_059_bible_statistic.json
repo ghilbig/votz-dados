@@ -1,0 +1,56 @@
+{
+  "parteNumber": 59,
+  "youtubeId": "cDxTSmkzfIc",
+  "totalCitations": 16,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 10,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 9
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 725,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 29,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "parteNumber": 86,
+  "youtubeId": "-8vQ1og5DAo",
+  "totalCitations": 37,
+  "totalBooks": 8,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 15,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 7
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        },
+        {
+          "chapter": 16,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 6,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Jeremias",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 30,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 35,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Levítico",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 23,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 15,
+          "verse": 3,
+          "count": 1
+        },
+        {
+          "chapter": 15,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Números",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 29,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

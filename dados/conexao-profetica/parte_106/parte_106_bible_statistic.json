@@ -1,0 +1,62 @@
+{
+  "parteNumber": 106,
+  "youtubeId": "TyzWG_kf1to",
+  "totalCitations": 11,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Mateus",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 315,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Colossenses",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

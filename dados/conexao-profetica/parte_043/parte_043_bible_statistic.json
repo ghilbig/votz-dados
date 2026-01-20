@@ -1,0 +1,63 @@
+{
+  "parteNumber": 43,
+  "youtubeId": "cikSXDUHaMg",
+  "totalCitations": 12,
+  "totalBooks": 5,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 7
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Lucas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "1a. Carta aos Coríntios",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "2a. Carta aos Coríntios",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

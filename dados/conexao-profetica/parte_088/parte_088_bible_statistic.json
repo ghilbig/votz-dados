@@ -1,0 +1,35 @@
+{
+  "parteNumber": 88,
+  "youtubeId": "PheINhEKj8I",
+  "totalCitations": 8,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 18,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Isaías",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    }
+  ]
+}

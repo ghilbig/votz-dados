@@ -1,0 +1,74 @@
+{
+  "parteNumber": 108,
+  "youtubeId": "cQCM2v0MmSc",
+  "totalCitations": 6,
+  "totalBooks": 6,
+  "books": [
+    {
+      "book": "Romanos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 1125,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Eclesiastes",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 228,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

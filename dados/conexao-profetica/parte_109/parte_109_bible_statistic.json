@@ -1,0 +1,41 @@
+{
+  "parteNumber": 109,
+  "youtubeId": "-_AARNUzbVk",
+  "totalCitations": 9,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Mateus",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Marcos",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

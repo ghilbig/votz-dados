@@ -1,0 +1,57 @@
+{
+  "parteNumber": 85,
+  "youtubeId": "hy38cbGrL00",
+  "totalCitations": 14,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Zacarias",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

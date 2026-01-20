@@ -1,0 +1,45 @@
+{
+  "parteNumber": 115,
+  "youtubeId": "akiL5NyAT_4",
+  "totalCitations": 16,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 9,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 4
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

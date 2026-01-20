@@ -1,0 +1,51 @@
+{
+  "parteNumber": 110,
+  "youtubeId": "pZkR7d4uwCc",
+  "totalCitations": 20,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 16,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 1137,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

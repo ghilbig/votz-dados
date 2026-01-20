@@ -1,0 +1,85 @@
+{
+  "parteNumber": 119,
+  "youtubeId": "OkZ6PzxX94U",
+  "totalCitations": 9,
+  "totalBooks": 7,
+  "books": [
+    {
+      "book": "Gênesis",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "1a. Carta aos Coríntios",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "2a. Carta aos Coríntios",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

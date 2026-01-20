@@ -1,0 +1,62 @@
+{
+  "parteNumber": 38,
+  "youtubeId": "GKS1LB-ZTA4",
+  "totalCitations": 13,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Daniel",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Hebreus",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 12,
+          "verse": 25,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

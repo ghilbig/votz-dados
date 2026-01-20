@@ -1,0 +1,35 @@
+{
+  "parteNumber": 91,
+  "youtubeId": "riy5-XMiHRA",
+  "totalCitations": 18,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 16,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

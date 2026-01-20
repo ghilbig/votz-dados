@@ -1,6 +1,7 @@
 {
-  "processedAt": "2026-01-20T12:25:42.090Z",
+  "processedAt": "2026-01-20T18:22:50.153Z",
   "chunks": 1625,
   "references": 6,
-  "modified": false
+  "modified": false,
+  "hasStatistics": true
 }

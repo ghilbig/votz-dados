@@ -1,0 +1,100 @@
+{
+  "parteNumber": 64,
+  "youtubeId": "pgB-RTNVt4A",
+  "totalCitations": 20,
+  "totalBooks": 7,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 8,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Jeremias",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Colossenses",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

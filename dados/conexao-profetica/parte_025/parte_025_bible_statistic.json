@@ -1,0 +1,41 @@
+{
+  "parteNumber": 25,
+  "youtubeId": "lM-tBr7ZEZw",
+  "totalCitations": 7,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Jeremias",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 49,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

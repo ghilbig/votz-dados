@@ -1,0 +1,62 @@
+{
+  "parteNumber": 98,
+  "youtubeId": "JucYi5jjcjE",
+  "totalCitations": 8,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Salmos",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 16,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

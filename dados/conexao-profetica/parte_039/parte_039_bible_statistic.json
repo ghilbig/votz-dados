@@ -1,0 +1,83 @@
+{
+  "parteNumber": 39,
+  "youtubeId": "Ez1hM4Rf24o",
+  "totalCitations": 11,
+  "totalBooks": 5,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 21,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 926,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "1a. Carta a Timóteo",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "2a. Carta a Timóteo",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

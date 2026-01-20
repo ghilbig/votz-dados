@@ -1,0 +1,52 @@
+{
+  "parteNumber": 120,
+  "youtubeId": "RUgHQQ1Syzo",
+  "totalCitations": 6,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Mateus",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Amós",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

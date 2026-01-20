@@ -1,0 +1,52 @@
+{
+  "parteNumber": 46,
+  "youtubeId": "dzmA4t8kMu0",
+  "totalCitations": 6,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Números",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Romanos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

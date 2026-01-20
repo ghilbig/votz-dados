@@ -1,0 +1,30 @@
+{
+  "parteNumber": 77,
+  "youtubeId": "RxP9knnsGho",
+  "totalCitations": 2,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Isaías",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 53,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Lucas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

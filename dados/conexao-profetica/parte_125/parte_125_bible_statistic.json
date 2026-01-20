@@ -1,0 +1,50 @@
+{
+  "parteNumber": 125,
+  "youtubeId": "Z9U2UCetZM8",
+  "totalCitations": 9,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 6,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 16,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 168,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Hebreus",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "verse": 25,
+          "count": 1
+        },
+        {
+          "chapter": 1025,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
