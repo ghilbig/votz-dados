@@ -1,0 +1,9 @@
+version: 0.8.0
+files:
+  - url: votz-0.8.0.AppImage
+    sha512: DiJ7mffW5w+Fig5FVuusEu3Nl7XjFlV4SARwnT8char9QpMAdAfwpA2hlvTrKnC3nHAj2Y1u3ngWcE48bLOjwQ==
+    size: 108281700
+    blockMapSize: 114552
+path: votz-0.8.0.AppImage
+sha512: DiJ7mffW5w+Fig5FVuusEu3Nl7XjFlV4SARwnT8char9QpMAdAfwpA2hlvTrKnC3nHAj2Y1u3ngWcE48bLOjwQ==
+releaseDate: '2026-01-21T21:36:14.311Z'
