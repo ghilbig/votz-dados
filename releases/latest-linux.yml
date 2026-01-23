@@ -1,9 +1,9 @@
-version: 0.8.1
+version: 0.9.1
 files:
-  - url: https://github.com/ghilbig/votz-dados/releases/download/v0.8.1/votz-0.8.1.AppImage
-    sha512: 5e7MgGfgeyDDKHk7xcAsT+fILRoNkyLX3HNV8PQERcHNkAeumEs0PsobiEG78+pPYyneskaOqpDGanLpIeThvA==
-    size: 108281023
-    blockMapSize: 113875
-path: https://github.com/ghilbig/votz-dados/releases/download/v0.8.1/votz-0.8.1.AppImage
-sha512: 5e7MgGfgeyDDKHk7xcAsT+fILRoNkyLX3HNV8PQERcHNkAeumEs0PsobiEG78+pPYyneskaOqpDGanLpIeThvA==
-releaseDate: '2026-01-22T13:22:25.691Z'
+  - url: https://github.com/ghilbig/votz-dados/releases/download/v0.9.1/votz-0.9.1.AppImage
+    sha512: 0AD3Qh4BQJ1cw6brSkmtg5eear075kDg9K4cqWp9vr0dl+1MuxXAWDNFRV9QnyKQCBYpg3bmlyPN9KTdMcYRRg==
+    size: 108285409
+    blockMapSize: 114165
+path: https://github.com/ghilbig/votz-dados/releases/download/v0.9.1/votz-0.9.1.AppImage
+sha512: 0AD3Qh4BQJ1cw6brSkmtg5eear075kDg9K4cqWp9vr0dl+1MuxXAWDNFRV9QnyKQCBYpg3bmlyPN9KTdMcYRRg==
+releaseDate: '2026-01-23T12:22:53.830Z'
