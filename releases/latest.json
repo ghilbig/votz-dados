@@ -3,12 +3,12 @@
   "files": [
     {
       "url": "https://github.com/ghilbig/votz-dados/releases/download/v0.11.3/votz-Setup-0-11-3-exe",
-      "sha512": "zLqrwrhZ4iCpUirV7HZ8tYKpz5lQ8ccFtIZUVPz65UsAJ97ll3q422Va+dP3oT62sMCBMi68swQjIdGzL9tI3A==",
+      "sha512": "QRmdwYq2Dwjy+6/RtZ2YfQLZqqcJIT5iKPq3aLpCyyACqKRAjVJUBs5gqwSmhKypQ4KPJ/XTws/cYmoc3wa0XA==",
       "size": 79523236
     }
   ],
   "path": "https://github.com/ghilbig/votz-dados/releases/download/v0.11.3/votz-Setup-0-11-3-exe",
-  "sha512": "zLqrwrhZ4iCpUirV7HZ8tYKpz5lQ8ccFtIZUVPz65UsAJ97ll3q422Va+dP3oT62sMCBMi68swQjIdGzL9tI3A==",
+  "sha512": "QRmdwYq2Dwjy+6/RtZ2YfQLZqqcJIT5iKPq3aLpCyyACqKRAjVJUBs5gqwSmhKypQ4KPJ/XTws/cYmoc3wa0XA==",
   "size": 0,
-  "releaseDate": "2026-01-24T14"
+  "releaseDate": "2026-01-24T15"
 }
