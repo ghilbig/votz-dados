@@ -1,14 +1,14 @@
 {
-  "version": "0.11.3",
+  "version": "0.11.2",
   "files": [
     {
-      "url": "https://github.com/ghilbig/votz-dados/releases/download/v0.11.3/votz-Setup-0-11-3-exe",
-      "sha512": "QRmdwYq2Dwjy+6/RtZ2YfQLZqqcJIT5iKPq3aLpCyyACqKRAjVJUBs5gqwSmhKypQ4KPJ/XTws/cYmoc3wa0XA==",
-      "size": 79523236
+      "url": "https://github.com/ghilbig/votz-dados/releases/download/v0.11.2/votz-Setup-0-11-2-exe",
+      "sha512": "rDeRQhjvfWFwPn8SPh4RpGcwStjm37ZdzL5XJAuU+AcBDCAmDHoMpPNfSeuCEAlP7fFf+z+k1w43nGP6gjJmPg==",
+      "size": 79523175
     }
   ],
-  "path": "https://github.com/ghilbig/votz-dados/releases/download/v0.11.3/votz-Setup-0-11-3-exe",
-  "sha512": "QRmdwYq2Dwjy+6/RtZ2YfQLZqqcJIT5iKPq3aLpCyyACqKRAjVJUBs5gqwSmhKypQ4KPJ/XTws/cYmoc3wa0XA==",
+  "path": "https://github.com/ghilbig/votz-dados/releases/download/v0.11.2/votz-Setup-0-11-2-exe",
+  "sha512": "rDeRQhjvfWFwPn8SPh4RpGcwStjm37ZdzL5XJAuU+AcBDCAmDHoMpPNfSeuCEAlP7fFf+z+k1w43nGP6gjJmPg==",
   "size": 0,
   "releaseDate": "2026-01-24T15"
 }
