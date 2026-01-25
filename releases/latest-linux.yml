@@ -1,9 +1,9 @@
-version: 0.13.0
+version: 0.13.1
 files:
-  - url: https://github.com/ghilbig/votz-dados/releases/download/v0.13.0/votz-0.13.0.AppImage
-    sha512: Cru5tlV5KHgFykavgJrjMhOSh7fRDzdeqqH/MLbnrpqzFffdzo4gHJOmqlLxjYwWw0Q2r6O9kI1Jz4HJ+O86pQ==
-    size: 108318533
-    blockMapSize: 114521
-path: https://github.com/ghilbig/votz-dados/releases/download/v0.13.0/votz-0.13.0.AppImage
-sha512: Cru5tlV5KHgFykavgJrjMhOSh7fRDzdeqqH/MLbnrpqzFffdzo4gHJOmqlLxjYwWw0Q2r6O9kI1Jz4HJ+O86pQ==
-releaseDate: '2026-01-25T15:57:53.580Z'
+  - url: https://github.com/ghilbig/votz-dados/releases/download/v0.13.1/votz-0.13.1.AppImage
+    sha512: 4U1H2WE0VzD9h1hs3CBi1diCE3l20Pqwrgojif99TYIvIflADbZpeRY2Zsl3qcC3CWzxS8mS+sPOyjWQ9uqkAw==
+    size: 108318553
+    blockMapSize: 114541
+path: https://github.com/ghilbig/votz-dados/releases/download/v0.13.1/votz-0.13.1.AppImage
+sha512: 4U1H2WE0VzD9h1hs3CBi1diCE3l20Pqwrgojif99TYIvIflADbZpeRY2Zsl3qcC3CWzxS8mS+sPOyjWQ9uqkAw==
+releaseDate: '2026-01-25T15:59:36.075Z'

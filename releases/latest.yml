@@ -1,8 +1,8 @@
-version: 0.13.0
+version: 0.13.1
 files:
-  - url: https://github.com/ghilbig/votz-dados/releases/download/v0.13.0/votz-Setup-0.13.0.exe
-    sha512: J8l+hDM2tsvilz8Xv5bUBu4zq59gcVQAtTpHOVj2KW4pkby5bzuP1IqyjNPF8oaxBOAoDYOCQhJywYCeycmXCA==
-    size: 79526323
-path: https://github.com/ghilbig/votz-dados/releases/download/v0.13.0/votz-Setup-0.13.0.exe
-sha512: J8l+hDM2tsvilz8Xv5bUBu4zq59gcVQAtTpHOVj2KW4pkby5bzuP1IqyjNPF8oaxBOAoDYOCQhJywYCeycmXCA==
-releaseDate: '2026-01-25T15:57:45.839Z'
+  - url: https://github.com/ghilbig/votz-dados/releases/download/v0.13.1/votz-Setup-0.13.1.exe
+    sha512: ZOwBBPqXJz9IbBgGKztUBqh52EJbSW/qvxckh5moMWcgsleZVzqVyMMCDp49R+LTZFJYUBATXgPDThu6gFPsjg==
+    size: 79526216
+path: https://github.com/ghilbig/votz-dados/releases/download/v0.13.1/votz-Setup-0.13.1.exe
+sha512: ZOwBBPqXJz9IbBgGKztUBqh52EJbSW/qvxckh5moMWcgsleZVzqVyMMCDp49R+LTZFJYUBATXgPDThu6gFPsjg==
+releaseDate: '2026-01-25T15:59:28.354Z'
