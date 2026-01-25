@@ -1,10 +1,10 @@
 {
-  "totalCitations": 1487,
+  "totalCitations": 1514,
   "totalBooks": 32,
   "books": [
     {
       "book": "Apocalipse",
-      "totalCitations": 919,
+      "totalCitations": 930,
       "verses": [
         {
           "chapter": 1,
@@ -69,7 +69,7 @@
         {
           "chapter": 13,
           "verse": null,
-          "count": 670
+          "count": 681
         },
         {
           "chapter": 14,
@@ -135,7 +135,7 @@
     },
     {
       "book": "Daniel",
-      "totalCitations": 198,
+      "totalCitations": 202,
       "verses": [
         {
           "chapter": 1,
@@ -155,7 +155,7 @@
         {
           "chapter": 7,
           "verse": null,
-          "count": 76
+          "count": 79
         },
         {
           "chapter": 8,
@@ -175,7 +175,7 @@
         {
           "chapter": 12,
           "verse": null,
-          "count": 31
+          "count": 32
         },
         {
           "chapter": 70,
@@ -201,7 +201,7 @@
     },
     {
       "book": "Mateus",
-      "totalCitations": 108,
+      "totalCitations": 114,
       "verses": [
         {
           "chapter": 3,
@@ -246,12 +246,12 @@
         {
           "chapter": 23,
           "verse": null,
-          "count": 1
+          "count": 3
         },
         {
           "chapter": 24,
           "verse": null,
-          "count": 78
+          "count": 82
         },
         {
           "chapter": 25,
@@ -496,7 +496,7 @@
     },
     {
       "book": "Gênesis",
-      "totalCitations": 21,
+      "totalCitations": 22,
       "verses": [
         {
           "chapter": 1,
@@ -526,7 +526,7 @@
         {
           "chapter": 27,
           "verse": null,
-          "count": 4
+          "count": 5
         },
         {
           "chapter": 29,
@@ -587,6 +587,37 @@
       ]
     },
     {
+      "book": "Jeremias",
+      "totalCitations": 13,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 6,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 30,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 35,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 49,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    },
+    {
       "book": "Hebreus",
       "totalCitations": 12,
       "verses": [
@@ -624,32 +655,6 @@
           "chapter": 1025,
           "verse": null,
           "count": 1
-        }
-      ]
-    },
-    {
-      "book": "Jeremias",
-      "totalCitations": 11,
-      "verses": [
-        {
-          "chapter": 3,
-          "verse": null,
-          "count": 2
-        },
-        {
-          "chapter": 30,
-          "verse": null,
-          "count": 3
-        },
-        {
-          "chapter": 35,
-          "verse": null,
-          "count": 2
-        },
-        {
-          "chapter": 49,
-          "verse": null,
-          "count": 4
         }
       ]
     },
@@ -727,8 +732,13 @@
     },
     {
       "book": "Zacarias",
-      "totalCitations": 7,
+      "totalCitations": 9,
       "verses": [
+        {
+          "chapter": 12,
+          "verse": 10,
+          "count": 2
+        },
         {
           "chapter": 12,
           "verse": null,
@@ -795,6 +805,32 @@
       ]
     },
     {
+      "book": "Ezequiel",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 18,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 28,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 39,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 46,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
       "book": "Colossenses",
       "totalCitations": 4,
       "verses": [
@@ -823,27 +859,6 @@
           "chapter": 9,
           "verse": null,
           "count": 2
-        }
-      ]
-    },
-    {
-      "book": "Ezequiel",
-      "totalCitations": 3,
-      "verses": [
-        {
-          "chapter": 18,
-          "verse": null,
-          "count": 1
-        },
-        {
-          "chapter": 28,
-          "verse": null,
-          "count": 1
-        },
-        {
-          "chapter": 46,
-          "verse": null,
-          "count": 1
         }
       ]
     },
