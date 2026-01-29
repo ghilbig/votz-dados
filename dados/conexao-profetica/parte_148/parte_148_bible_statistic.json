@@ -1,0 +1,46 @@
+{
+  "parteNumber": 148,
+  "youtubeId": "Ykkc2lboAX4",
+  "totalCitations": 8,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 6,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 5
+        },
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Números",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 80,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
