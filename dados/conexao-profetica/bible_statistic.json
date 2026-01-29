@@ -1,10 +1,10 @@
 {
-  "totalCitations": 1514,
+  "totalCitations": 1522,
   "totalBooks": 32,
   "books": [
     {
       "book": "Apocalipse",
-      "totalCitations": 930,
+      "totalCitations": 936,
       "verses": [
         {
           "chapter": 1,
@@ -69,7 +69,7 @@
         {
           "chapter": 13,
           "verse": null,
-          "count": 681
+          "count": 686
         },
         {
           "chapter": 14,
@@ -94,7 +94,7 @@
         {
           "chapter": 19,
           "verse": null,
-          "count": 9
+          "count": 10
         },
         {
           "chapter": 20,
@@ -201,7 +201,7 @@
     },
     {
       "book": "Mateus",
-      "totalCitations": 114,
+      "totalCitations": 115,
       "verses": [
         {
           "chapter": 3,
@@ -226,7 +226,7 @@
         {
           "chapter": 13,
           "verse": null,
-          "count": 1
+          "count": 2
         },
         {
           "chapter": 19,
@@ -753,7 +753,7 @@
     },
     {
       "book": "Números",
-      "totalCitations": 6,
+      "totalCitations": 7,
       "verses": [
         {
           "chapter": 10,
@@ -767,6 +767,11 @@
         },
         {
           "chapter": 29,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 80,
           "verse": null,
           "count": 1
         }
