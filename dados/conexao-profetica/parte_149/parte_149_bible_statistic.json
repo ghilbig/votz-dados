@@ -1,0 +1,62 @@
+{
+  "parteNumber": 149,
+  "youtubeId": "DV0pr92NVeM",
+  "totalCitations": 15,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 6
+        },
+        {
+          "chapter": 17,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Filipenses",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Lucas",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
