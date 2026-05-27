@@ -1,0 +1,46 @@
+{
+  "parteNumber": 21,
+  "youtubeId": "_jBSdEwfY_A",
+  "totalCitations": 5,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 17,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Oséias",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Miquéias",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

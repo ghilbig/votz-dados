@@ -1,0 +1,46 @@
+{
+  "parteNumber": 8,
+  "youtubeId": "N2wUlZUPEhU",
+  "totalCitations": 5,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Daniel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 8,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Atos dos Apóstolos",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

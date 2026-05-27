@@ -1,0 +1,56 @@
+{
+  "parteNumber": 22,
+  "youtubeId": "3ga2FZiORcc",
+  "totalCitations": 6,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Jeremias",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 16,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 12,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

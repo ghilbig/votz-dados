@@ -1,0 +1,74 @@
+{
+  "parteNumber": 25,
+  "youtubeId": "sLQYnNHpB3s",
+  "totalCitations": 10,
+  "totalBooks": 6,
+  "books": [
+    {
+      "book": "1a. Carta a Timóteo",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "2a. Carta a Timóteo",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

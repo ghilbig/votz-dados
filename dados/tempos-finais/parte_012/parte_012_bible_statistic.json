@@ -1,0 +1,35 @@
+{
+  "parteNumber": 12,
+  "youtubeId": "GdW4QxeFN84",
+  "totalCitations": 6,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Daniel",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 775,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

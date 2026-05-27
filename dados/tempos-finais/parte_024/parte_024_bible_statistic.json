@@ -1,0 +1,41 @@
+{
+  "parteNumber": 24,
+  "youtubeId": "SG-GzNqlbRs",
+  "totalCitations": 3,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Joel",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Gênesis",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parteNumber": 14,
+  "youtubeId": "TRiUGi_eaoY",
+  "totalCitations": 2,
+  "totalBooks": 1,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "parteNumber": 3,
+  "youtubeId": "ZdNuZKKjvgE",
+  "totalCitations": 12,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 5,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 20,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "1a. Carta aos Coríntios",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "2a. Carta aos Coríntios",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 27,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

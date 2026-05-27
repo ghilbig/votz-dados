@@ -1,0 +1,51 @@
+{
+  "parteNumber": 17,
+  "youtubeId": "UPq13BZe7Eo",
+  "totalCitations": 6,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 16,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 19,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Jó",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 41,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 22,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

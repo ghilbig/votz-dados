@@ -1,0 +1,45 @@
+{
+  "parteNumber": 2,
+  "youtubeId": "X8ensnam6e4",
+  "totalCitations": 8,
+  "totalBooks": 2,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 7,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 3
+        },
+        {
+          "chapter": 20,
+          "verse": null,
+          "count": 2
+        },
+        {
+          "chapter": 23,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "João",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

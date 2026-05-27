@@ -1,0 +1,41 @@
+{
+  "parteNumber": 15,
+  "youtubeId": "1e0bfA-vSUs",
+  "totalCitations": 6,
+  "totalBooks": 3,
+  "books": [
+    {
+      "book": "Daniel",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": null,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "book": "Apocalipse",
+      "totalCitations": 2,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Provérbios",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

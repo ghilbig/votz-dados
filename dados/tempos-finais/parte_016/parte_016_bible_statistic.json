@@ -1,0 +1,57 @@
+{
+  "parteNumber": 16,
+  "youtubeId": "ONgqnp1GnnU",
+  "totalCitations": 6,
+  "totalBooks": 4,
+  "books": [
+    {
+      "book": "Apocalipse",
+      "totalCitations": 3,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": null,
+          "count": 1
+        },
+        {
+          "chapter": 14,
+          "verse": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "book": "Jeremias",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Mateus",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "book": "Isaías",
+      "totalCitations": 1,
+      "verses": [
+        {
+          "chapter": 26,
+          "verse": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

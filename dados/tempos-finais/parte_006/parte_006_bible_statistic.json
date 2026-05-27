@@ -1,0 +1,19 @@
+{
+  "parteNumber": 6,
+  "youtubeId": "F3uHZUzUbSQ",
+  "totalCitations": 4,
+  "totalBooks": 1,
+  "books": [
+    {
+      "book": "Romanos",
+      "totalCitations": 4,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": null,
+          "count": 4
+        }
+      ]
+    }
+  ]
+}
